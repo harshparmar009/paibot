@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PAIBOT",
+  title: "PAIBOT - Personal AI ",
   description: "Find Hotels and Flats",
 };
 

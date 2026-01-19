@@ -37,8 +37,8 @@ export default function HomePage() {
           transition={{ delay: 0.2 }}
           className="text-xl md:text-2xl text-neutral-200 max-w-2xl mb-14"
         >
-          Discover premium hotels and modern flats across top cities. Smart
-          search. Real availability. Trusted listings.
+          Your personal buisness application, Discover premium hotels and modern flats across top cities. Smart
+          search. Real availability.
         </motion.p>
 
         <div className="flex flex-col md:flex-row gap-8">
