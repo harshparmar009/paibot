@@ -68,9 +68,13 @@ export default async function HotelDetailsPage({ params }: PageProps) {
             ₹{hotel.price}
           </p>
 
-          <button className="mt-6 w-full bg-indigo-600 hover:bg-indigo-700 text-white py-3 rounded-xl font-semibold transition">
+          <a
+            href="tel:+917014678700"
+            className="mt-6 block text-center w-full bg-indigo-600 hover:bg-indigo-700 text-white py-3 rounded-xl font-semibold transition"
+          >
             Book Now
-          </button>
+          </a>
+
         </div>
       </div>
 
